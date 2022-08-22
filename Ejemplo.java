@@ -7,5 +7,6 @@ public class Ejemplo {
 
         System.out.println("Hola GitHub!");
         System.out.print("Este es el commit de Juan Cepeda");
+		System.out.print("Este es el commit de Hasan Gutierrez");
     }
 }
