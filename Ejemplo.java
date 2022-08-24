@@ -10,5 +10,6 @@ public class Ejemplo {
 		System.out.print("Este es el commit de Hasan Gutierrez");
                 System.out.print("Este es el pull request de Jorge Rubio");
                 System.out.print("Este es el pull request de Hasan Gutierrez");
+                System.out.print("Este commit realiza Camilo C");
     }
 }
